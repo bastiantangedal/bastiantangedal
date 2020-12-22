@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Bastian. 👋🤓</h2>
+<h2 align="center">Hello! My name is Bastian (but you can call me Basse). 👋🤓</h2>
 <p align="center">I'm currently a high school student from :norway: pursuing Informationtechnology :student:. I love creating apps and applications that help others in their work. My current languages is C#, Java and some Web (HTML, CSS & JS). I also play games such as League of Legends and CSGO, and Chess :smile: I've started exploring the field of open-source ✨ and hope to contribute to that field as well. 
 </p>
 
