@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Bastian (but you can call me Basse). 👋🤓</h2>
+<h2 align="center">Hi, my name is Bastian, but you can call me Basse. 👋🤓</h2>
 <p align="center">I love creating apps and applications that help others in their work. I've started exploring the field of open-source ✨ and hope to contribute to that field as well. 
 </p>
 
