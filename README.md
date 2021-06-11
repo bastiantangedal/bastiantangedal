@@ -1,5 +1,5 @@
 <h2 align="center">Hi, my name is Bastian, but you can call me Basse. 👋🤓</h2>
-<p align="center">I love creating apps and applications that help others in their work. My favorite language is C#. I've started exploring the field of open-source and hope to contribute to that field as well ✨. 
+<p align="center">I love creating apps and applications that help others in their work, and my favorite language is C#. Furthermore, I've started exploring the field of open-source and hope to contribute to that field as well ✨. 
 </p>
 
 <p align=center>
